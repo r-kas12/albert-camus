@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+}
+.text{
+    
+    color: white;
+    text-align: center;
+    font-size:3rem;
+    font-style:normal;
+    font-family: "Anton", sans-serif;
+    
+}
+#text{
+    color:rgb(4, 205, 255)
+}
