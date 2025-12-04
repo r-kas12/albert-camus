@@ -2,6 +2,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    height:100vh;
+    gap: 2rem;
+    
 }
 *{
     background-color: black;
@@ -19,3 +22,4 @@
     color:rgb(4, 205, 255)
 
 }
+
