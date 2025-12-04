@@ -1,3 +1,8 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 *{
     background-color: black;
 }
@@ -12,4 +17,5 @@
 }
 #text{
     color:rgb(4, 205, 255)
+
 }
